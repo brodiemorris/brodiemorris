@@ -1,4 +1,4 @@
-## Hi there 👋
+Professional Googler & "it works on my machine" enthusiast. Currently teaching Python to do my homework.
 
 <!--
 **brodiemorris/brodiemorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
